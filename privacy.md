@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Privacy Policy — ListenEasy
 
-**Last updated:** June 8, 2026
+**Last updated:** June 14, 2026
 
 ListenEasy (“the app”) is an offline audiobook player for audio files you provide on your device.
 
@@ -31,11 +31,15 @@ This data stays in app storage on your iPhone or iPad and is removed when you de
 
 ## Files you import
 
-ListenEasy plays audio files you select via the system file picker or folders you grant access to. The app does not upload those files to us.
+ListenEasy plays audio files you select via the system file picker, **Open with ListenEasy**, or folders you grant access to. The app does not upload those files to us.
+
+## Optional cover art lookup
+
+If you turn on **Automatic cover lookup** in Settings, ListenEasy sends only the book **title** and **author** to Apple Books and Open Library to search for cover images. Your audio files are not sent. This feature is off by default.
 
 ## Microphone
 
-The app does not record audio. A microphone usage string may appear in app metadata for system compatibility; the microphone is not used.
+The app does not record audio and does not use the microphone.
 
 ## Children
 
