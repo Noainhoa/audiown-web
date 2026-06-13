@@ -1,6 +1,6 @@
-title: Audiown
+title: ListenEasy
 description: Offline audiobook player for your own audio files.
 url: https://noainhoa.github.io
-baseurl: /audiown-web
+baseurl: /listeneasy-web
 theme: jekyll-theme-minimal
 markdown: kramdown

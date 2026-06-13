@@ -1,4 +1,4 @@
-# Audiown
+# ListenEasy
 
 Offline audiobook player for local audio files on iPhone and iPad.
 
